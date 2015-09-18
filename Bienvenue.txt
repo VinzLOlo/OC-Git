@@ -2,4 +2,4 @@ Test de mon client Git SourceTree
 ---------------------------------
 
 Première modification du fichier après add
-Deuxième modification de ca fichier.
+Deuxième modification de ce fichier (sans faute).
